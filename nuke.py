@@ -17,9 +17,9 @@ from discord.ext import tasks
 from termcolor import colored
 from colorama import Fore, init
 
-token = "TOKEN-HERE"
-prefix = "ifr"
-myID = "ID-HERE"
+token = "MTA1MzYzMzU3NjQ1NDg1Njc4NA.G912IJ.FsSpKsYzjugtpVjqznAR7dil2gDQWaOFVGOCKM"
+prefix = "?"
+myID = "809434923789320198"
 
 os.system('cls')
 print(f'{Fore.BLUE}L O A D I N G . . .')
